@@ -4,7 +4,7 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-This is a basic game launcher using SDL2. It includes a simple start screen ("Press Any Button") and transitions into a placeholder game screen. It's meant to be a skeleton for creating your own game launcher or menu system.
+This is a basic game launcher using SDL2. It includes a simple start screen ("Press Any Button") and transitions into a placeholder SPINNING CUBE. It's meant to be a skeleton for creating your own game launcher or menu system.
 
 ---
 
