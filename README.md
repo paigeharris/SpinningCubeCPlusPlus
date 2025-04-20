@@ -7,6 +7,8 @@
 This is a basic game launcher using SDL2. It includes a simple start screen ("Press Any Button") and transitions into a placeholder SPINNING CUBE. It's meant to be a skeleton for creating your own game launcher or menu system.
 
 ---
+make clean
+make
 
 ## 🧰 Requirements
 
