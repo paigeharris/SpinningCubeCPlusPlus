@@ -8,6 +8,7 @@ This is a basic game launcher using SDL2. It includes a simple start screen ("Pr
 
 ---
 make clean
+
 make
 
 ## 🧰 Requirements
